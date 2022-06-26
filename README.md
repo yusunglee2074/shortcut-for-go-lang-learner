@@ -5,6 +5,7 @@ I will make a shortcut for someone who wants to reach a level where they can say
 [한국어](README-KO.md)
 
 ## Our journey
+!['내 그림'](static/drawing.jpg "고 캐릭터")
 
 - Install
 - What is ```package main```?
@@ -18,7 +19,6 @@ I will make a shortcut for someone who wants to reach a level where they can say
 
 ### Install
 [Official Install Page](https://go.dev/doc/install)
-!['내 그림'](static/drawing.jpg "고 캐릭터")
 
 ### What is ```package main```
 **Package** keyword is using describe script name and namespace, It can be imported from another package script.  
@@ -114,6 +114,7 @@ It offer 2 cards with colored text.
 You can get meaning of text on left card, otherwise right, you should get only color not meaning of text.  
   
 You can play with ```go run main.go```.
+!['게임'](static/game.png "게임")
 
 
 ### Where do I go next
