@@ -106,9 +106,20 @@ func main() {
 
 
 ### Make the simplest cli game.
+Think for 5 minutes and think of the simplest game in the world.  
+And describe, make rule, coding.  
+  
+I will make text-color game.  
+It offer 2 cards with colored text.  
+You can get meaning of text on left card, otherwise right, you should get only color not meaning of text.  
+
 
 
 ### Where do I go next
+
+
+
+
 
 
 
