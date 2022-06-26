@@ -1,35 +1,34 @@
 # Shortcut-for-go-lang-learner
-I will make a shortcut for someone who wants to reach a level where they can say "I've dealt with the language"
+I will make shortcut for someone who wants to reach a level where they can say "I've dealt with the language"
 
 
-[한국어](README-KO.md)
+[한국어](./README-ko.md)
 
 ## Our journey
 
-- Install(Drawing Go character during installation)
+- Install(Drawing Go charactor during installation)
 - What is ```package main```?
 - Variable
-- Run a script
+- Run script
 - Function
 - Loop
 - Stdout, Stdin
-- Make the simplest cli game.
+- Make simplest cli game.
 - Where do I go next
 
-### Install(Drawing Go character during installation)
-[Official Install Page](https://go.dev/doc/install)
+### Install(Drawing Go charactor during installation)
 !['내 그림'](static/drawing.jpg "고 캐릭터")
 
 ### What is ```package main```
 **Package** keyword is using describe script name and namespace, It can be imported from another package script.  
 **Any code written in Go belongs to a package.**  
 You can Import another package with ```import "{packageName}"```   
-```main``` package has a special function called the ```main``` function. It is the entry point to execute your program. And the main function has zero arguments nor does not return any value.
+```main``` package has special function called the ```main``` function. It is entry point to excute your program. And main function has zero arguments nor not return any value.
 
 
 ### Variable  
 Go is strongly, statically **typed language**.  
-Variables are used by the **compiler**. 
+Variables are used by the **complier**. 
 
 ```go
 package main
@@ -42,14 +41,14 @@ func main() {
 
 ```
 
-### Run a script
-You can make a script, how to run this a script?
+### Run script
+You can make script, how to run this script?
 ```bash
 go run {filename}
 ```
 
 ### Function
-You can declare a function with ```func``` keyword.
+You can declare function with ```func``` keyword.
 
 ```go
 package main
@@ -87,8 +86,8 @@ func main() {
 }
 ```
 ### Stdout, Stdin
-Go has a built-in library called ```standard library```.  
-It has a bunch of extended function for language. We use ```fmt package``` for Stdin, Stdout, this package implements formatted I/O with functions is analogous to C's printf and scanf.
+Go has built-in library called ```standard library```.  
+It has bunch of extended function for language. We use ```fmt package``` for Stdin, Stdout, this package implements formatted I/O with functions is analogous to C's printf and scanf.
 
 ```go
 package main
@@ -105,10 +104,12 @@ func main() {
 
 
 
-### Make the simplest cli game.
+### Make simplest cli game.
 
 
 ### Where do I go next
+
+
 
 
 
