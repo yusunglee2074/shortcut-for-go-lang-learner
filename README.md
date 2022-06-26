@@ -116,9 +116,12 @@ You can get meaning of text on left card, otherwise right, you should get only c
 You can play with ```go run main.go```.
 !['게임'](static/game.png "게임")
 
+I learn struct, if statement, import package, etc... with this cli game.
+
 
 ### Where do I go next
-
+I will go to **hugo** to build static web site.  
+Cuz that's why I learn go.
 
 
 
