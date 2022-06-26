@@ -6,7 +6,7 @@ I will make a shortcut for someone who wants to reach a level where they can say
 
 ## Our journey
 
-- Install(Drawing Go character during installation)
+- Install
 - What is ```package main```?
 - Variable
 - Run a script
@@ -16,7 +16,7 @@ I will make a shortcut for someone who wants to reach a level where they can say
 - Make the simplest cli game.
 - Where do I go next
 
-### Install(Drawing Go character during installation)
+### Install
 [Official Install Page](https://go.dev/doc/install)
 !['내 그림'](static/drawing.jpg "고 캐릭터")
 
