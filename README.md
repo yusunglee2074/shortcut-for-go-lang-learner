@@ -112,7 +112,8 @@ And describe, make rule, coding.
 I will make text-color game.  
 It offer 2 cards with colored text.  
 You can get meaning of text on left card, otherwise right, you should get only color not meaning of text.  
-
+  
+You can play with ```go run main.go```.
 
 
 ### Where do I go next
