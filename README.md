@@ -5,7 +5,7 @@ I will make a shortcut for someone who wants to reach a level where they can say
 [한국어](README-KO.md)
 
 ## Our journey
-!['내 그림'](static/drawing.jpg "고 캐릭터")
+!['내 그림'](static/drawing.png "고 캐릭터")
 
 - Install
 - What is ```package main```?
